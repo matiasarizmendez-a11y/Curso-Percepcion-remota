@@ -1,0 +1,6 @@
+﻿id,nombre,lat,lon,tipo
+Norte_quebrada,Zona norte Parque llanos de Challe,-28.046842,-71.085412,desierto florido
+Centro_desierto,Zona centro Parque llanos de Challe ,-28.169624,-71.117548,desierto florido 
+Sur_desierto,Zona sur Parque llanos de Challe ,-28.28977,-71.125305,desierto florido 
+Pluma_quebrada,Pluma quebrada carrizal (Humedal costero),-28.077581,-71.146889,pluma 
+Humedal_estuario_huasco,Sur desierto florido (Río Huasco),-28.447042,-71.202961,río Huasco
